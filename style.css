@@ -1,0 +1,210 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: serif;
+}
+#navbar{
+    display: flex;
+    margin: 5%;
+}
+#home{
+    margin-left: 40%;
+    display: flex;
+    gap: 80%;
+}
+.home{
+    font-size: 25px;
+    text-decoration: none;
+    
+}
+a{
+    color: black;
+}
+.Ai{
+    font-size: 90px;
+    color: blue;
+    text-decoration: underline;
+    
+}
+.design{
+    font-size: 25px;
+}
+#container{
+    display: flex;
+    justify-content: center;
+}
+.container{
+    
+    
+    height: 600px;
+    width: 45%;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+.google{
+    border-radius: 5px;
+    width: 110%;
+    padding: 10%;
+    display: flex;
+    gap: 15%;
+    text-align: center;
+}
+.facebook{
+    font-size: 100%;
+}
+
+.or{
+    text-align: center;
+}
+button{
+    display: flex;
+    align-items: center;
+    background-color: white;
+    height: 50px;
+    width: 190px;
+    border-radius: 5px;
+    border-color: #eeeeee;
+}
+.log{
+    border: none;
+    font-weight: 500;
+    text-align: center;
+    padding-left: 15%;
+    width: 50%;
+    height: 30px;
+    background-color: #42a5f5;
+}
+.name{
+    margin-left: 15%;
+    margin-right: 10%;
+    font-size: 100%;
+}
+.text{
+    font-size: 40px;
+    font-weight: 400;
+    margin-top: 5%;
+    margin-left: 30%;
+
+}
+#furniture{
+    margin-top: 20%;
+    margin-left: 10%;
+}
+
+.furniture{
+    font-size: 50px;
+    color: #039be5;
+    margin-bottom: 2%;
+}
+.furnitures{
+    font-size:130px ;
+}
+
+#contain{
+   
+    
+    
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    
+}
+
+.contain{
+    height: 600px;
+    width: 500px;
+   
+    
+    
+}
+.heading{
+    font-size: 70px;
+    text-align: center;
+    margin-top: 20%;
+}
+.img{
+    display: flex;
+    margin-left:0%;
+    background-color: #eeeeee;
+    
+}
+.carrie{
+    font-size: 70px;
+}
+ .oxnard{
+    margin-top: 25px;
+    font-size: 35px;
+ }
+ .image{
+    margin-left: 10%;
+ }
+ .luke{
+    margin-left: 20%;
+ }
+ .best{
+    text-align: center;
+    margin-top: 1%;
+    font-size: 60px;
+    text-decoration: underline;
+ }
+
+ .cushions{
+    display: flex;
+    gap: 5%;
+    margin-bottom: 20%;
+ }
+ .cushion{
+    margin-left: 15%;
+ }
+
+ .paras{
+    margin-top: 5%;
+    font-size: 40px;
+ }
+
+ .para{
+    font-size: 25px;
+    margin-right: 10%;
+ }
+ .lorem{
+    font-size: 80%;
+ }
+ .dining{
+    display: flex;
+    justify-content: center;
+    
+ }
+
+ #footer{
+    color: white;
+    background-color:#29b6f6;
+    height: 300px;
+    display: flex;
+    gap: 20%;
+ }
+ .footer{
+    margin-top: 3%;
+ }
+
+ .contact{
+    font-size: 300%;
+    margin-left: 20%;
+    
+
+ }
+ .mail{
+    font-size: 200%;
+    margin-left: 20%;
+    
+ }
+
+ .aldes{
+    font-size: 200%;
+    
+
+ }
+ .pay{
+    font-size:200% ;
+    margin-top: 50%;
+    
+
+ }
